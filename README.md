@@ -29,7 +29,7 @@ This lab demonstrates how to:
 
 ### 📸 Screenshot
 
-![Create User](photo1.png)
+<img width="957" height="334" alt="photo1" src="https://github.com/user-attachments/assets/f5330bb0-dda3-4d9f-abe4-6a603316ad0c" />
 
 ---
 
@@ -43,8 +43,8 @@ This lab demonstrates how to:
 6. Click **Create User**  
 
 ### 📸 Screenshot
+<img width="940" height="380" alt="photo2" src="https://github.com/user-attachments/assets/dcb9f312-8b11-4969-b641-a2446d8e9fbf" />
 
-![Administrator Access](photo2.png)
 
 ---
 
@@ -57,8 +57,8 @@ This lab demonstrates how to:
 5. Save the changes  
 
 ### 📸 Screenshot
+<img width="951" height="380" alt="photo3" src="https://github.com/user-attachments/assets/bf757a42-f971-4adc-a26f-e1a67faa452b" />
 
-![Billing Access](photo3.png)
 
 ---
 
@@ -71,8 +71,7 @@ This lab demonstrates how to:
 5. Verify that Billing information is accessible  
 
 ### 📸 Screenshot
-
-![Billing Dashboard](photo4.png)
+<img width="943" height="399" alt="photo4" src="https://github.com/user-attachments/assets/88eab761-4ff8-42a4-bd6f-3b0fa672fb8f" />
 
 ---
 
